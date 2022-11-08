@@ -1,6 +1,6 @@
 {
   "name": "zzc-lerna-a",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "learn子包a",
   "keywords": [
     "lerna"
