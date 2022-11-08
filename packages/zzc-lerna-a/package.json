@@ -7,7 +7,7 @@
   ],
   "author": "zhangzechao <zhangzechao@shuidihuzhu.com>",
   "homepage": "https://github.com/ponyfly/lerna-libs#readme",
-  "license": "ISC",
+  "license": "MIT",
   "main": "lib/zzc-lerna-a.js",
   "directories": {
     "lib": "lib",
