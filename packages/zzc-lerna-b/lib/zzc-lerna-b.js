@@ -1,0 +1,8 @@
+'use strict';
+
+const dayjs = require('dayjs')
+module.exports = zzcLernaB;
+
+function zzcLernaB() {
+    return "Hello from zzcLernaB" + dayjs().format();
+}
