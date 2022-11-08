@@ -4,5 +4,5 @@ const dayjs = require('dayjs')
 module.exports = zzcLernaB;
 
 function zzcLernaB() {
-    return "Hello from zzcLernaB" + dayjs().format();
+    return "Hello from zzcLernaB change b package" + dayjs().format();
 }
