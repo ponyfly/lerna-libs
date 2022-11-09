@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npm.taobao.org/"
+    "registry": "https://registry.npmjs.org/"
   },
   "repository": {
     "type": "git",
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/ponyfly/lerna-libs/issues"
   },
-  "gitHead": "e151bb05bf1e9de844d085dc02fbbd6e7b269739"
+  "gitHead": "c8f99e66b536626396071ffe10366d20807a926f"
 }
