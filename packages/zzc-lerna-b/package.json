@@ -1,6 +1,6 @@
 {
   "name": "zzc-lerna-b",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "lerna子包b",
   "author": "zhangzechao <zhangzechao@shuidihuzhu.com>",
   "homepage": "https://github.com/ponyfly/lerna-libs#readme",
