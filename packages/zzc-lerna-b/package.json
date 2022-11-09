@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/ponyfly/lerna-libs/issues"
   },
-  "gitHead": "87ce619d2a1b07015ca3e0e48099cee8a9cd3c4a"
+  "gitHead": "87ce619d2a1b07015ca3e0e48099cee8a9cd3c4a",
+  "dependencies": {
+    "zzc-lerna-a": "^0.0.13"
+  }
 }
