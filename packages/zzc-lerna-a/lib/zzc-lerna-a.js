@@ -3,5 +3,5 @@
 module.exports = zzcLernaA;
 
 function zzcLernaA() {
-    return "Hello from zzcLernaA change aaaaaa";
+    return "Hello from zzcLernaA change aaaaaanew a";
 }
